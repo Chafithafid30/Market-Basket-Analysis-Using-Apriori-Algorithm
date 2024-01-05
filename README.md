@@ -42,3 +42,12 @@ Algoritma Apriori adalah suatu algoritma dasar yang diusulkan oleh Agrawal & Sri
 
 ## Kesimpulan:
 Secara keseluruhan, algoritma Apriori membantu menemukan itemset yang sering muncul dan aturan asosiasi dari data transaksional, memberikan wawasan berharga bagi bisnis untuk mengoptimalkan strategi mereka. Penyesuaian ambang dukungan dan confidence memungkinkan keseimbangan antara menemukan pola yang bermakna dan menghindari asosiasi yang keliru.
+
+Berdasarkan analisis dengan nilai min_support sebesar 0.01, adapun hasil beberapa aturan asosiasi yang menunjukkan item yang sering dibeli bersamaan antara lain:
+
+• Coffee dan Bread.
+• Medialuna dan Coffee.
+• Pastry dan Coffee.
+• Tea dan Coffee.
+
+Aturan-aturan ini menunjukkan bahwa kombinasi produk-produk tersebut memiliki tingkat kejadian yang tinggi, dan pelanggan cenderung membeli item tersebut bersamaan. Ini dapat memberikan wawasan berharga untuk strategi pemasaran, penempatan produk di toko, atau penawaran bundel yang dapat meningkatkan penjualan dan kepuasan pelanggan. Karena Algoritma Apriori membantu mengidentifikasi aturan asosiasi yang dapat memberikan wawasan tentang kecenderungan pelanggan membeli produk bersamaan.
